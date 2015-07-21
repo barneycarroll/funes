@@ -1,6 +1,6 @@
 {
   "name": "funes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Remember everything, for better or for worse",
   "main": "funes.es6.js",
   "scripts": {
