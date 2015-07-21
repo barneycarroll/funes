@@ -1,0 +1,22 @@
+{
+  "name": "funes",
+  "version": "0.1.0",
+  "description": "Remember everything, for better or for worse",
+  "main": "funes.es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/barneycarroll/funes.git"
+  },
+  "keywords": [
+    "variadic",
+    "memoization"
+  ],
+  "author": "barney.carroll@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/funes/issues"
+  }
+}
