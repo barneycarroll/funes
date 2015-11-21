@@ -32,12 +32,7 @@ add::funes( 1, 2 )
 // => 3
 ```
 
-***
-
-### *Coming soon:*
-
 ## In an ES3+ browser
-
 
 ```html
 <script src="/lib/funes.es3.js"></script>
