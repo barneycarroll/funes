@@ -5,7 +5,7 @@
   "main": "funes.es3.js",
   "jsnext:main": "funes.es6.js",
   "scripts": {
-    "test:es3": "browserify tests.es3.js | tape-run | faucet",
+    "test:es3": "browserify tests.es3.js | tape | faucet",
     "test:es7": "babel-node --presets=es2015,stage-0 tests.es7.js | faucet",
     "test": "npm run test:es3 && npm run test:es7"
   },
